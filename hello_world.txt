@@ -1,1 +1,2 @@
 Hello world! I'm @Lrbus and this is my first repo!
+##testing "git commit" with comments in VSC##
